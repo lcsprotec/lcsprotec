@@ -1,5 +1,5 @@
 - 👋 "Olá, meu nome é Lucas de Oliveira Lima. Este é o meu portfólio com o nome @lcsprotec."
-- 👀 "Absorver dados e gerar insights."
+- 👀 "Tenho interesse em absorver dados para gerar insights."
 - 🌱  "Estou atualmente aprendendo análise de dados."
 - 📫 "Me faça perguntas sobre Excel, Power BI, SQL ou Python."...
 - 😄 Pronouns: He - ele
